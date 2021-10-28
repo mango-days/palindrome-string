@@ -7,4 +7,4 @@ def isPalindrome(str, index):
   else: print("palindrome")
 
 str=input()
-isPalindrome(str)
+isPalindrome(str,0)
